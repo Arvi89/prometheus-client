@@ -1,5 +1,5 @@
 {
-    "name": "tweedegolf/prometheus-client",
+    "name": "arvi89/prometheus-client",
     "description": "A PHP Prometheus client library",
     "license": "MIT",
     "autoload": {
